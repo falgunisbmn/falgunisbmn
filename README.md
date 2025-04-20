@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @falgunisbmn
-- 👀 I’m interested in App and web development
+- 👋 Hi, I’m Falguni Sharma
+- 👀 I’m interested in app and web development
 - 🌱 I’m currently learning Tailwind CSS
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me discord- @laffaning
