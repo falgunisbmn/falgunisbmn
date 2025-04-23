@@ -2,7 +2,7 @@
 - 👀 I’m interested in app and web development
 - 🌱 I’m currently learning Tailwind CSS
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me discord- @laffaning
+- 📫 How to reach me on email
 
 
 <!---
