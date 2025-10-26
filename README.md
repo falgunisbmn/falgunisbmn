@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Falguni Sharma
 - 👀 I’m interested in app and web development
-- 🌱 I’m currently working on DStyles App and looking forward to collaborate on more such projects
+- 🌱 I’m currently working on Edura App and looking forward to collaborate on more such projects
 - 📫 Could reach me- on email
 - 📫 Also available on linkedin
 
